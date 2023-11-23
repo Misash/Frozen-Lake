@@ -2,7 +2,7 @@
 
 
 ## Requirements
-create a .env with the openAI key and python >=3.10.12
+create a .env with python >=3.10.12
 
 
 ## Install Dependencies
